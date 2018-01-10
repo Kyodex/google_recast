@@ -34,11 +34,6 @@ li a:hover:not(.active) {
 
 * {box-sizing: border-box;}
 
-.topnav {
-  overflow: hidden;
-  background-color: #fff;
-}
-
 @media screen and (max-width: 600px) {
   .topnav a, .topnav input[type=text] {
     float: none;
